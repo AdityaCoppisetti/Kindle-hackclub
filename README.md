@@ -33,4 +33,11 @@ this is the on/off switch that ill be using (4mm SPDT 1P2T Slide Switch) -
 
 
 
+and then this is what i decided to use for the page turning/selecting the book -
+
+
+
+<img width="1367" height="587" alt="image" src="https://github.com/user-attachments/assets/b4f8c674-9c7f-4a56-95b4-913423306737" />
+
+
 
