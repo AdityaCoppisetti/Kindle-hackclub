@@ -24,7 +24,13 @@ this is the sd card module im using (im unsure of the module im using but any on
 <img width="999" height="569" alt="image" src="https://github.com/user-attachments/assets/7984a584-413f-40e7-b1b9-be4d2f1f838c" />
 
 
-this is the on/off switch that ill be using-
+
+this is the on/off switch that ill be using (4mm SPDT 1P2T Slide Switch) -
+
 
 
 <img width="1083" height="569" alt="image" src="https://github.com/user-attachments/assets/b06e6e28-da33-4172-b64c-b9e8a63c34b6" />
+
+
+
+
