@@ -40,4 +40,89 @@ and then this is what i decided to use for the page turning/selecting the book -
 <img width="1367" height="587" alt="image" src="https://github.com/user-attachments/assets/b4f8c674-9c7f-4a56-95b4-913423306737" />
 
 
+ill be using this button for the selecting of the books aswell.
+
+
+for the motherboard that will handle everything , ill be using the esp32 , you can use any esp32 you want 
+but for myself i decided to make my own esp32 , why?
+because i wanted to have some progress in learning kicad and i wanted to learn alot more than there is to offer 
+and i think stuff like this is one of the best ways to learn. i also wanted my microcontrller to have wifi and bluetooth so i can upload books easily.
+
+so im attaching a pic of a esp32 you could use-
+
+<img width="1103" height="696" alt="image" src="https://github.com/user-attachments/assets/14123a83-7ab5-49d2-a3d7-1579024e795f" />
+
+
+
+and then this is my design of the esp32, i had a ton of trouble with making it and i learnt alot , so for that check journal.md
+
+
+
+
+<img width="582" height="806" alt="image" src="https://github.com/user-attachments/assets/64187e6d-bd8b-4766-b64a-fbce08e5f974" />
+
+
+
+you dont have to make it so compact as we are using it for a kindle so it can be stretched out, it doesnt really matter. this design was just for my own practice.
+also i have a ton of error rn so ill fix my pcb then. 
+
+
+
+
+and as for the e-ink display i found this one on amazon because it had the dsplay driver along w it.
+
+
+<img width="1036" height="657" alt="image" src="https://github.com/user-attachments/assets/2d74a1b9-9466-4bb2-ae4f-d47a846aeb04" />
+
+i have absolutely no clue why it says "operating system- ios/windows" in the listing its just funny and questionative.
+
+and for the 3d printing filament you can choose anything you want
+im going with what my friend has.
+
+
+
+for the lipo batteries im going with these ( cause they come in a pack of 2 , no i wont be using 2 batteries , just one is enough)
+
+
+<img width="1036" height="657" alt="image" src="https://github.com/user-attachments/assets/127973ab-51e4-41b4-8d7d-2153ee950798" />
+
+we cant just connect the lipo batteries with the microcontroller so you have to use the tp4056 module 
+but for me once again i needed the practice so i made my own tp4056 module.
+
+
+<img width="520" height="741" alt="image" src="https://github.com/user-attachments/assets/6ebe2037-521c-4dab-ae55-3bc2b45309ce" />
+
+for more info about this check journal.md
+
+
+so ill be making a dock later on so for that i thought pogo pins might be a good idea cause ive had the urge to use pogo pins in  my project for a while now.
+
+<img width="1045" height="538" alt="image" src="https://github.com/user-attachments/assets/7820f197-878b-464d-8393-7d061b59aa87" />
+
+you can buy this or you can repurpose some from an old non working wireless airpods case or smth.
+i have many lying around.
+
+
+for the oled display to show the battery percentage and the page number and allat im using this 
+
+<img width="1045" height="538" alt="image" src="https://github.com/user-attachments/assets/858eafe5-640e-467e-8a81-951c65a1b21c" />
+
+
+i have seen this display 
+on a ton of projects and so i wanted to use this and it also doesnt seem to use much power
+
+now im a photographer so i always have sd cards laying around but here is a picture of the type of sd card im using
+( micro sd card)
+
+<img width="1065" height="241" alt="image" src="https://github.com/user-attachments/assets/0ec3bd09-99ac-40b1-97c5-7be6368f94b8" />
+
+
+
+any sd card works, i suggest you pick one that has a ton of storage so you can store many books.
+
+
+
+
+
+
 
