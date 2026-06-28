@@ -89,8 +89,9 @@ for the lipo batteries im going with these ( cause they come in a pack of 2 , no
 we cant just connect the lipo batteries with the microcontroller so you have to use the tp4056 module 
 but for me once again i needed the practice so i made my own tp4056 module.
 
+<img width="528" height="670" alt="image" src="https://github.com/user-attachments/assets/d48a265d-e4e7-4917-b6c1-befd9146fa7c" />
 
-<img width="520" height="741" alt="image" src="https://github.com/user-attachments/assets/6ebe2037-521c-4dab-ae55-3bc2b45309ce" />
+
 
 for more info about this check journal.md
 
