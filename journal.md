@@ -345,7 +345,36 @@ which is basically pressing r to rotate it cause yk its upside down.
 
 
 
+okay so ive used global label to connect it to the main core , which only makes the schematic neater.
+
+the j2 & 3 and expansion headers 
+i did the mistake of accidentally putting the wrong footprint with 9 pins. make sure that doesnt happen.
+
+there are also power pins to supply regulated 3.3v and 5v.
+there are also ground pins.
+
+here is how it looks like in the pcb editor.
+
+<img width="1067" height="523" alt="image" src="https://github.com/user-attachments/assets/f5a7513f-990d-498d-b5f9-47cb5ca491ae" />
+
+and then in the 3d viewer it looks like this.
+
+<img width="504" height="342" alt="image" src="https://github.com/user-attachments/assets/299f3855-e1a7-40bb-a9a4-e5175256ee5c" />
+
+
+
+ ALL OF THIS PUT TOGETHER AND ROUTED LOOKS LIKE THIS- 
 
  
 
+https://github.com/user-attachments/assets/d6af7f0d-325b-4ab3-99fa-96ceb57c8545
+
+
+
+ AND THEN HERE IT IS IN THE 3D VIEWER 
+
  
+
+https://github.com/user-attachments/assets/1673bee4-c454-4514-89f8-4a8e1b6599c3
+
+
