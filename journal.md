@@ -495,6 +495,17 @@ it supplies charging current from the MCP73831
 delivers stored enegery to the rest of the system during battery powered operation.
 
 
+the tp4056 module looks somehting like this in the pcb editor ( do keep in mind that this is the version 1, i will be making improvements if i can)
+
+<img width="609" height="782" alt="image" src="https://github.com/user-attachments/assets/c2c9fce8-a4d3-4466-83f7-60784dba8c19" />
+
+
+and the 3d view looks like this -
+
+<img width="609" height="782" alt="image" src="https://github.com/user-attachments/assets/ead22138-e9e2-4dc7-b6ef-7df7072fd035" />
+
+i initially did have trouble when i made this w the routing but my skills were below par.
+
 
 
 
