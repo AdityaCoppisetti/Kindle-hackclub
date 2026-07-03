@@ -506,6 +506,10 @@ and the 3d view looks like this -
 
 i initially did have trouble when i made this w the routing but my skills were below par.
 
+oh and here are the footprints of the components i forgot to add
+
+<img width="705" height="257" alt="image" src="https://github.com/user-attachments/assets/be1b8293-b2f6-493e-8bbd-4624a2f5334a" />
+
 
 
 
