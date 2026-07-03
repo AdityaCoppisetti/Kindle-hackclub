@@ -269,7 +269,8 @@ provides transient current during high power operations
 reduces voltage ripple on the power rail
 
 
-the C6 decoupling capacitor (100nF)
+**the C6 decoupling capacitor (100nF)**
+
 the 100nF capacitor is places close to the esp32 power pin
 it filters the high frequency electrical noise
 provides a local energy reservoir for fast switching currents
@@ -277,6 +278,34 @@ improves
 power integrity and overall system stability.
 
 
+**EN pull up resistor (R8)**
+the enable pin controls wether the esp32 is running or held in reset.
+it hold the en pin high during normal operation
+it prevents accidental entry into bootloader mode
+works together with the boot push button to enable firmware uploading.
+
+
+**crystal oscillator (Y1)**
+this in my first attempt at the pcb , i didnt place it close enough which was bad. cause it should be AS close to the esp32 module as it can be.
+
+this generates an accurate clock signal 
+ensures reliable execution o firmware
+supports accurate usb communication
+maintains timing accuracy for wireless communication.
+
+**Crystal load capacitors ( c7 and C8)**
+the crystal requires external load capacitors to oscillate correctly
+it stabilizes the crystal oscillator 
+it improves the frequency accuracy
+it reduces startup time
+it minimizes frequency dirft caused by electrical noise.
+
+SERIES RESISTOR (R4)
+a small resistor is placed in the crystal circuit
+it contrls oscillator drive strength , it reduces ringing on the crystal signal and it improves oscillator stability when required.
+lowk shouldnt i put a 0 ohm resistor instead??
+
+**USB DATA LINES (USB D+ and USB D-)**
 
  
 
