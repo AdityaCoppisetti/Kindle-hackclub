@@ -152,3 +152,35 @@ prevents oscillation of the voltage regulator
 
 thats the LDO.
 
+
+lets now move onto the the boot and reset!!!!
+this is for some reason the funnest part for me idek why.
+
+ I LOVE BUTTONS I LOVE ALL OF EM besides those wierd small metal ones i hate em.
+
+ **BOOT and RESET circuit**
+ the boot and reset circuit povides a simple method for resetting the esp32-c3
+ and placing it into a bootloader mode for firmware programming. proper control of these pins is very important for debugging, software development and recovery.
+
+ Switch one (SW1)
+ this is the reset button.
+
+<img width="655" height="454" alt="image" src="https://github.com/user-attachments/assets/d5b6bf6e-161b-42a8-b541-2ac4a345b835" />
+
+ 
+ the reset button is connected to the En pin ( enable ) of the esp32-c3
+
+ it restarts the microcontroller
+ allows the firmware to reboot without disconnecting power
+ usefule during firmware development and debugging.
+ when the button is pressed the EN pin is pulled LOW resetting the esp32
+ realing the button returns the EN pin high , allowing the microcontroller to start executing the      firmware.
+
+ the R5 - 10 kilo ohm pull up resistor- 
+ the en pin must remain high during normal operation
+ so it holds the en pin at 3.3v during normal operation.
+ 
+
+ 
+
+ 
