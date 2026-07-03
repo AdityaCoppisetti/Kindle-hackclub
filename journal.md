@@ -11,6 +11,22 @@ i had alot of trouble with my first design. a total of 71 errors.
 here is the list of components i have and their respective footprints. 
 althought i do suggest that you do go over them once incase i have done something wrong.
 
+this is the PHASE ONE OF DEVELOPMENT.
+
+
+**PHASE ONE**
+here we will decide how it looks
+sketches 
+front layout
+rear layout
+button placement
+screen bezels 
+thickness
+materials
+colour
+
+and then phase 2 would be to CAD everthing.
+
 <img width="736" height="682" alt="image" src="https://github.com/user-attachments/assets/62ac1667-f3c0-494e-baea-40b48509bac2" />
 
 a total of 29 components.
@@ -51,6 +67,12 @@ it protects the pcb from static electricity.
 diverts voltage spikes safely to ground
 helps prevent the damage to the esp32 and usb circuitry.
 
+
+<img width="385" height="42" alt="image" src="https://github.com/user-attachments/assets/2e263a28-3be5-4c03-b36a-82d46eb767db" />
+
+i actually got these wrong when i did it. so thats why im attaching this picture to make sure the D- and the D+ matches.
+
+
 the U!-USBLC6-2SC6 protection.
 the usb D+ and d- lines are sensitive to voltage spikes 
 ( which is what i was afraid of happening when i got them wrong
@@ -76,15 +98,18 @@ the o ohm resistor-
 although it behaves like a wire electrically , the o ohm reisistor provides flexibility in the design.
 it allows easy isolation of the usb power rail during testing
 can be replaces with a ferrite bead for improved EMI FILTERING
-simplifies debugging and future hardware revisiongs.
+simplifies debugging and future hardware revisings.
 
 
-<img width="385" height="42" alt="image" src="https://github.com/user-attachments/assets/2e263a28-3be5-4c03-b36a-82d46eb767db" />
 
-i actually got these wrong when i did it. so thats why im attaching this picture to make sure the D- and the D+ matches.
 
 next i suggest to do would be the LDO
 
 <img width="514" height="377" alt="image" src="https://github.com/user-attachments/assets/95f7a7cc-0eae-4e5b-a459-d4584d822f7a" />
+
+okay so i have a mistake in my design , the AP2112k-3.3 is a 3.3 V regulator but my VOUT is labeled +5v
+
+it looks like the regulator is outputting 5V which it definitely isnt.
+ahhh such a silly mistake.
 
 
