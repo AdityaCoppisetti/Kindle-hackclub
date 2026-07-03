@@ -317,8 +317,33 @@ and here is how it looks in the 3d view
 
 <img width="461" height="270" alt="image" src="https://github.com/user-attachments/assets/511a9704-5811-4b3e-92a1-30958dba7892" />
 
+.
+.
 
 **USB DATA LINES (USB D+ and USB D-)**
+
+the esp32 includes a native usb full speed controller
+it enables the firmware uploading wihtout an external usb to uart converter
+it provides usb serial communication
+simplifies development by allowing direct programming through usb-c
+
+
+now onto the gpio layout-
+
+<img width="752" height="520" alt="image" src="https://github.com/user-attachments/assets/f73b8d62-bf37-4141-b511-6b85eb6cd36e" />
+
+THE MOST IMPORTANT THING HERE IS THAT FOR THE J2 , I.E THE LEFT SIDE GPIO PINS I HAVE REVERSED THE SYMBOL IN THE SCHEMATIC. 
+
+so when youre gonna be wiring do this- 
+
+
+
+https://github.com/user-attachments/assets/d0f3d229-0610-4695-a153-af34da82ba7c
+
+
+which is basically pressing r to rotate it cause yk its upside down.
+
+
 
 
  
