@@ -13,8 +13,30 @@ basically what i have in mind is-
 - pogo pins ( why? youll find out in a bit)
 - a small oled display that tells me the power and then the page number aswell and how much portion of the book ive read.
 - a micro sd card
+ so thasts the components for the kindle.
 
-  so thasts the components for the kindle.
+Before i start plotting i need to answer some questions that i need to answer
+this is whats called as 
+**PHASE 0**
+
+1) why am i making this?
+  this is a device for students and avid readers like me who want a distraction free reading device     with a long battery life and its open sourced.
+
+2) what makes it different from a kindle?
+  its fully open sourced hardware and firmware , its extremely repairable , expandable with a microsd card with customizable software and a secondary oled status display for battery , page nuber and reading progress.
+
+ 3) display size - 7.5 inch e ink display ( 640 x 384 resolution)
+ 4) battery life- target of 3 to 6 weeks of normal reading with aggressive deep sleep and infrequent    e ink refreshes
+ 5) linux or bare metal?
+    bare metal sice im using an esp32-c3 ( arduino framework with platformIO) this provides much
+    lower power consumption and faster startup than linux
+6) touchscreen? no physical buttons only for a distraction free reading
+experience and improved battery life.
+
+   
+
+  
+
 
   here are pictures of the exact components ill be using-
 
