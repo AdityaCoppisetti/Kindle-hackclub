@@ -513,7 +513,20 @@ oh and here are the footprints of the components i forgot to add
 
 
 
+okay so here is the version 2 of the battery charger.
 
+<img width="674" height="757" alt="image" src="https://github.com/user-attachments/assets/602fc9df-b43b-404d-9ba3-30c9944160c1" />
 
+this is more compact and i like it.
 
+what i realised when making this again was that- 
 
+my battery charging circuit is only a charging circuit. 
+it doesnt know yet that it need to supply the power to the main esp32 motherboard and other components.
+its only a charger rn. not a supplier.
+
+my schematic is missing an output.
+
+maybe i will have to redesign it entirely again 
+
+UGHHHHHH IM DONE WITH TODAY MAN.
