@@ -400,14 +400,102 @@ my schematic consists of three primary sections
 2) the MCP73831 battery charging cicuit
 3) and the battery connector.
 
-
-the usb c power input- 
+**the usb c power input-**
 we dont need any data communication just for power so we are using the power only port.
 
 <img width="569" height="518" alt="image" src="https://github.com/user-attachments/assets/ae5142da-1a66-40c8-9b3c-ac35e4614db2" />
 
 this is the wiring schematic of the usb port. you can use any port you want its upto you,
 do rememeber that we will be soldering pogo pins onto the input part of the usb port so that when we make our dock it works. this is how it'll work. 
+
+the usb type c connector serves as the primary power source for the charging circuit. it receives 5v from an external usb charger and supplies it to the battery charging ic.
+
+actually you know what come to think of it how will i wire this to the main esp32 board.
+
+okay okay ill make another version of this module later on let me just explain the schematic rn.
+
+**the J1- usb type c receptacle**
+the usb type c receptacle is responsible for delivering power from an external usb source to the charging circuit
+it recieves a regulated 5v input (VBUS)
+provides a reversible and modern charging interface
+supplies power to the mcp73831 charging controller
+
+
+**the cc1 and cc2 pull down resistors (5.1 kilo ohm)**
+the usb type c specification requires configuration channel (cc) resisitors so that the power source 
+can correctly identify the connected device.
+
+it identifies the deive as a usb power sink 
+requests the default usb power profile
+enables the usb power source to provice the 5v supply
+supports correct operation regardless of cable orientation.
+without these resistors many usb c charges will not enable the vbus output.
+
+THE BATTERY CHARGING CIRCUIT
+
+<img width="620" height="436" alt="image" src="https://github.com/user-attachments/assets/f1ee57be-79b2-4cf1-a91b-d231d6c8f456" />
+
+the battery charging circuit is built is built around the microchip MCP73831 a dedicated single cell lithium lithium ion battery charging controller. the ic automatically manages the charging process using a constand current constant voltage charging algorith to ensure safe and efficient charging.
+
+**U1-MCP7831 Battery charging controller**
+the MCP7831 is the central component responsible for charging the lithium ion battery.
+
+it regulated battery charging current 
+it performs contant current charging during the initial stage
+automatically transitions to constant voltage charging as the battery aproaches full capacity
+terminates charging when the battery is fully charged
+protects the battery from the overcharging by limiting the charging voltage to 4.2 V
+
+
+**C1- INPUT CAPACITOR (4.7uF)**
+the input capacitor is connected between the usb supply and ground.
+this filters noise from the incoming usb supply.
+reduces voltage ripple.
+improves stability of the charging controller.
+supplies instantaneous current during transient load conditions.
+
+**C2- battery output capacitor (4.7 uF)**
+the output capacitor is connected across the battery terminals.
+it stabilizes the battery voltage during charging.
+reduces voltage fluctuations.
+improves transient response.
+ensures stable operation of the charging controller.
+
+
+**R1 Programming resistor ( 2 kilo ohm)**
+the charging current of the mcp73831 is determined by the resistor connected to the RPOG pin
+it sets the maximum charging current.
+controls charging speed.
+it prevents excessive charging current that could damage the battery.
+
+A 2 kilo ohm resistor configures the charging contrller for an aproximate 500mA charging current.
+making it suitable for charging to medium capacity lithium ion cells while maintaining battery life.
+
+**D1 Charging status led**
+this idicates when battery chargin is in progress
+provides visual feedback during charging
+simplifies debugging and testing
+during the charging the STAT pin pulls low , illuminating the lef once charging is complete the led turns off automatically
+
+**Current limiting resistor**
+a resistor is connected in series with the status led.
+it limits the led current, it protects both the led and the STAT output.
+It ensures safe and reliable operation of the status indicator.
+
+**BATTERY CONNECTOR**
+the battery connector provides the electrical interface between the charging circuit and the lithium ion battery.
+
+<img width="279" height="433" alt="image" src="https://github.com/user-attachments/assets/a3c7b59d-145b-4b10-aa9d-c3a734c9c636" />
+
+
+**J3 battery connector-**
+a two pin connector is used to connect a single cell rechargable lithium ion battery.
+it connects the battery to the charging circuit 
+it supplies charging current from the MCP73831
+delivers stored enegery to the rest of the system during battery powered operation.
+
+
+
 
 
 
