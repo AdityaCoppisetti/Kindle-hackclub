@@ -118,4 +118,11 @@ this is how it should look like-
 
 <img width="737" height="535" alt="image" src="https://github.com/user-attachments/assets/2e09d4e5-63f4-4be3-ae79-665cafbf449c" />
 
+i even wired it properly in the pcb editor.
+
+<img width="737" height="535" alt="image" src="https://github.com/user-attachments/assets/f9912d4f-7ae3-48f9-bba5-f5759723f7ef" />
+
+i dont know how to add images on silkscreen i really wanna bombard the entire pcb with silly images.
+
+
 
