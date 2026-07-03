@@ -113,3 +113,9 @@ it looks like the regulator is outputting 5V which it definitely isnt.
 ahhh such a silly mistake.
 
 
+this is how it should look like- 
+
+
+<img width="737" height="535" alt="image" src="https://github.com/user-attachments/assets/2e09d4e5-63f4-4be3-ae79-665cafbf449c" />
+
+
