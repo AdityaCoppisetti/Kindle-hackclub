@@ -388,5 +388,29 @@ i made it on my own to improve my kicad skills and also because i couldnt find t
 
 <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/9deb33cb-1887-4cff-8a1f-b0564b8be187" />
 
+so here is the schematic i made -
+
+<img width="952" height="575" alt="image" src="https://github.com/user-attachments/assets/791e2a3c-9704-411a-9059-d460fc154c22" />
+
+why even use the tp4056 module-
+the lion batteries cannot be directly charged. we need a proper charging module to charge those batteries. the battery charging module provides a safe and reliable method of charging a single cell lithium ion battery using a usb type c pin.
+
+my schematic consists of three primary sections
+1) the usb c power input
+2) the MCP73831 battery charging cicuit
+3) and the battery connector.
+
+
+the usb c power input- 
+we dont need any data communication just for power so we are using the power only port.
+
+<img width="569" height="518" alt="image" src="https://github.com/user-attachments/assets/ae5142da-1a66-40c8-9b3c-ac35e4614db2" />
+
+this is the wiring schematic of the usb port. you can use any port you want its upto you,
+do rememeber that we will be soldering pogo pins onto the input part of the usb port so that when we make our dock it works. this is how it'll work. 
+
+
+
+
 
 
