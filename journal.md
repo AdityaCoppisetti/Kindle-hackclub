@@ -151,6 +151,9 @@ imporoves transient response when the esp32 draws aton of current.
 prevents oscillation of the voltage regulator 
 
 thats the LDO.
+ oh and here is the pcb 3d view of the ldo
+
+ <img width="744" height="203" alt="image" src="https://github.com/user-attachments/assets/1df750d2-c06d-4969-b5d5-9fa321be0cf3" />
 
 
 lets now move onto the the boot and reset!!!!
@@ -176,10 +179,104 @@ this is for some reason the funnest part for me idek why.
  when the button is pressed the EN pin is pulled LOW resetting the esp32
  realing the button returns the EN pin high , allowing the microcontroller to start executing the      firmware.
 
- the R5 - 10 kilo ohm pull up resistor- 
+ **the R5**
+ - 10 kilo ohm pull up resistor- 
  the en pin must remain high during normal operation
  so it holds the en pin at 3.3v during normal operation.
- 
+ it prevents the unintended resets caused by the electrical noise.
+ ensures reliable startup of the esp32-c3.
+ wihtout this resistor the en pin could float causing random or unreliable resets.
+
+
+**the R6**
+100 ohm series resistor 
+a small series resistor is placed between the reset circuitry and th EN pin 
+it limits transient current during switching
+reduces electrical noise on the en line
+provides additional protection for the esp32 input
+alhtough i do have to say it not always requiered , it imporves the integrity of th signal.
+
+
+**The C9- 100 nF Capacitor**
+the capacitor connected to the EN pin forms a small RC network.
+it filters high frequency electrical noise
+generated a breif power on delay during startup
+improves reset stability and prevents false triggering.
+this ensures the esp32-c3 stars reliably whenever power is applied.
+
+boot circuit- the esp32 enters its serial bootloader when the gpio09 is hel low during reset.
+
+
+NOW ONTO THE BOOOOOOOOT BUTTON!
+
+**the switch 2 ( SW2) which is our boot button.**
+
+the boot push button is connected to the GPIO09
+it forces the esp32-c3 into bootloader mode
+allows new firmware to be uploaded through usb
+provides a manual recovery method if firmware becomes corrupted 
+to enter the bootloader mode the boot button is held while the reset button is pressed.
+
+
+**The R7 10 ohm pull up resistor**
+gpio 9 myust normally remain high 
+it keeps the boot pin at a logic HIGH during normal operation
+prevents accidental entry into bootloader mode.
+imporves reliability by eliminating floating inputs.
+
+C10 100 nF Capacitor
+a capacitor is connected to the boot pin
+reduces electrical noise , it also improves the signal stability during button operation
+helps prevent false boot mode detection.
+
+and with that , thats the end of the boot and reset button circuit.
+
+<img width="337" height="570" alt="image" src="https://github.com/user-attachments/assets/1c14e7cd-dfad-440f-a114-a99ee0adb328" />
+
+
+
+
+ and this is how they look in the pcb editor.
+
+ <img width="469" height="131" alt="image" src="https://github.com/user-attachments/assets/bdb96aeb-67c6-4827-af5c-8d00ae0492d4" />
+
+ and then the 3d view , which doesnt really help much but still i love buttons so imma show everything.
+
+ <img width="744" height="203" alt="image" src="https://github.com/user-attachments/assets/75000738-1ec7-4dc6-86b1-5648816a6c7f" />
+
+
+**now lets get onto the main esp32 core circuit schematic**
+
+<img width="546" height="624" alt="image" src="https://github.com/user-attachments/assets/9ca8adef-324f-44bb-8bf8-0fa48eee14f8" />
+
+the esp32-c3 WROOM 02 module serves as the primary processing unit of the development board
+it is responsible for the executing firmware, controlling components , handling the usb and communication and interfacing with the external devices through the gpio pins.
+this seectoin of the entire schematic also includes the supporting circuirty required for stanle operantion including power filtering clock generation and signal conditioning.
+
+**U3 esp320c3 wroom - 02**
+
+this the main microcontroller module used in this project
+it executes the application firmware 
+handles the usb communication and firmware uploading
+provides wifi and bluetooth low energy BLE connectivity
+controls all the gpio perpherals connected to the development board.
+
+**C5 bulk supply capacitor(4.7uF)**
+
+the esp32 experiences rapid changes in current consumption especially during wireless communication
+it stabilizes the 3.3v supply
+provides transient current during high power operations
+reduces voltage ripple on the power rail
+
+
+the C6 decoupling capacitor (100nF)
+the 100nF capacitor is places close to the esp32 power pin
+it filters the high frequency electrical noise
+provides a local energy reservoir for fast switching currents
+improves
+power integrity and overall system stability.
+
+
 
  
 
