@@ -305,7 +305,21 @@ a small resistor is placed in the crystal circuit
 it contrls oscillator drive strength , it reduces ringing on the crystal signal and it improves oscillator stability when required.
 lowk shouldnt i put a 0 ohm resistor instead??
 
+this is the crystal wiring in the schematic editor.
+
+<img width="260" height="304" alt="image" src="https://github.com/user-attachments/assets/97e125a5-fb61-494a-b7e9-6421b47b5127" />
+
+and here is how it looks in the pcb editor 
+
+<img width="461" height="270" alt="image" src="https://github.com/user-attachments/assets/5f92b65e-6f6e-4ccf-8239-fbc3da108958" />
+
+and here is how it looks in the 3d view
+
+<img width="461" height="270" alt="image" src="https://github.com/user-attachments/assets/511a9704-5811-4b3e-92a1-30958dba7892" />
+
+
 **USB DATA LINES (USB D+ and USB D-)**
+
 
  
 
