@@ -378,3 +378,15 @@ https://github.com/user-attachments/assets/d6af7f0d-325b-4ab3-99fa-96ceb57c8545
 https://github.com/user-attachments/assets/1673bee4-c454-4514-89f8-4a8e1b6599c3
 
 
+
+
+
+here is the documentation for the tp4056 module i made.
+if you want to buy one you can ,
+i made it on my own to improve my kicad skills and also because i couldnt find the symbol for it.
+( i dont think there is one in the library tho)
+
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/9deb33cb-1887-4cff-8a1f-b0564b8be187" />
+
+
+
