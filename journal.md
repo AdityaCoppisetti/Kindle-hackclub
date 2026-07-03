@@ -29,7 +29,7 @@ and then phase 2 would be to CAD everthing.
 
 <img width="736" height="682" alt="image" src="https://github.com/user-attachments/assets/62ac1667-f3c0-494e-baea-40b48509bac2" />
 
-a total of 29 components.
+ a total of 29 components.
 i really want to make junkier and more intresting looking pcb in the future.
 
 i got a ton of the capacitors wrong so make sure you dont get that wrong.
