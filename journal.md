@@ -533,7 +533,7 @@ UGHHHHHH IM DONE WITH TODAY MAN.
 
 today is july 4th 2026 i am weird.
 
-this is my progress and what all i need to do ( i used chatgpt to mock this up for me.
+this is my progress and what all i need to do ( i used chatgpt to mock this up for me)
 
 <img width="447" height="434" alt="image" src="https://github.com/user-attachments/assets/e492cfcc-d9c0-4cef-baa7-6d632af14015" />
 
