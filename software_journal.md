@@ -103,4 +103,10 @@ i wont use any book yet ill fake everything.
  
  <img width="265" height="255" alt="image" src="https://github.com/user-attachments/assets/149ebaa5-8457-482e-9d51-2725390591c5" />
 
+## **PHASE 7**
+this is where the kindle becomes a kindle
+like suppose take the text -
+this is what a kindle is  this is my kindle...
 
+# it 
+turns it into this 
