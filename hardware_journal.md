@@ -529,6 +529,13 @@ my schematic is missing an output.
 
 maybe i will have to redesign it entirely again 
 
+then i added an output for the main motherboard 
+
+
+
+<img width="444" height="614" alt="image" src="https://github.com/user-attachments/assets/4823f54e-4e74-43e3-a0c6-b007bfaddd76" />
+
+
 UGHHHHHH IM DONE WITH TODAY MAN.
 
 today is july 4th 2026 i am weird.
