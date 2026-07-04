@@ -44,5 +44,37 @@ i would just need to run cmake --buil build
 
 
 ## **PHASE 1**
+this is building the simulator 
+basically i have to learn how everything works which is fun ig.
 
+## **PHASE 2**
+this is when ill have to build the ui.
+i wont use any book yet ill fake everything.
+
+# ill have to make
+- library screen. where all the book will be for selection.
+- reader screen, the actual reading , chapters pages and allat.
+- menu- return to library, battery and theme
+
+  ## **PHASE 3**
+  this where ill be defining the application architecture.
+  
+  # ill create the following folders
+  - shared/
+  - app/
+  - renderer/
+  - books/
+  - filesystem/
+  - util/
+
+
+    ## **PHASE 4**
+    here ill build functions like
+    - drawParagraph()
+    - drawheading()
+    - drawImage()
+    - drawFooter()
+    - drawPage()
+
+    i dont think any epub related work will be there , it would just be renedering. 
 
