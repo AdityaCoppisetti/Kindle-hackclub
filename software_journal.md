@@ -86,7 +86,7 @@ i wont use any book yet ill fake everything.
 
  it would then be able to read title , author and chapters.
 
- ##**phase 6**
+ ## **phase 6**
  XHTML PARSER
  the parser acts like a translator 
  it converts the raw html data into readable output like you would see on a website. 
