@@ -1,4 +1,4 @@
-<img width="689" height="618" alt="image" src="https://github.com/user-attachments/assets/7cfd745a-ee25-4d12-b8f4-24d1cfadd8d9" /><img width="689" height="618" alt="image" src="https://github.com/user-attachments/assets/41fc687d-1a27-4fe5-b095-660afe6f2cad" />this is where ill be journaling the software side of things.
+this is where ill be journaling the software side of things.
 
 i am diving and planning how ill be tackling the firmware into phases.
 
