@@ -537,3 +537,10 @@ this is my progress and what all i need to do ( i used chatgpt to mock this up f
 
 <img width="447" height="434" alt="image" src="https://github.com/user-attachments/assets/e492cfcc-d9c0-4cef-baa7-6d632af14015" />
 
+
+okay so basically this is just a reference picture from pintrest but this is basically how the wiring will be.
+
+
+
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/639b3569-de11-4766-9d36-813e7d9d17dc" />
+
