@@ -146,6 +146,41 @@ any sd card works, i suggest you pick one that has a ton of storage so you can s
 
 
 
+## Hardware Completed
+
+### ESP32-C3 Motherboard
+
+Designed a reusable ESP32-C3 development platform consisting of:
+
+- USB-C interface
+- USB ESD protection
+- 3.3 V LDO regulator
+- ESP32-C3-WROOM-02
+- Crystal oscillator
+- Boot and Reset circuitry
+- GPIO expansion headers
+- Complete PCB layout
+- Passed Design Rule Check (DRC)
+- Custom KiCad symbol and footprint
+- Full engineering documentation
+
+---
+
+### Battery Charging Module
+
+Designed a standalone Lithium-Ion charging module based on the MCP73831.
+
+Features include:
+
+- USB Type-C power input
+- USB-C CC configuration resistors
+- MCP73831 battery charging IC
+- Programmable charging current
+- Charge status LED
+- Battery connector
+- System output connector
+- Complete PCB layout
+- Full engineering documentation
 
 
 
