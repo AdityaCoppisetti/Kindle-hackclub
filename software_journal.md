@@ -93,10 +93,14 @@ i wont use any book yet ill fake everything.
  wait ill show.
 
  it takes the code like this-
+
+ 
  <img width="265" height="255" alt="image" src="https://github.com/user-attachments/assets/3985660e-ab13-4f32-956a-599f9a15e313" />
 
+ 
  and then shows it like this-
 
+ 
  <img width="265" height="255" alt="image" src="https://github.com/user-attachments/assets/149ebaa5-8457-482e-9d51-2725390591c5" />
 
 
