@@ -76,5 +76,27 @@ i wont use any book yet ill fake everything.
     - drawFooter()
     - drawPage()
 
-    i dont think any epub related work will be there , it would just be renedering. 
+  i dont think any epub related work will be there , it would just be renedering.
+
+  ## **PHASE 5**
+
+  ill just firgure out how tinyxml2 works
+  so that i can read xml files
+  and miniz can read zip files.
+
+ it would then be able to read title , author and chapters.
+
+ ##**phase 6**
+ XHTML PARSER
+ the parser acts like a translator 
+ it converts the raw html data into readable output like you would see on a website. 
+ wait ill show.
+
+ it takes the code like this-
+ <img width="265" height="255" alt="image" src="https://github.com/user-attachments/assets/3985660e-ab13-4f32-956a-599f9a15e313" />
+
+ and then shows it like this-
+
+ <img width="265" height="255" alt="image" src="https://github.com/user-attachments/assets/149ebaa5-8457-482e-9d51-2725390591c5" />
+
 
