@@ -112,4 +112,22 @@ it turns it into this
 - this is what a kindle is
   thi is my kindle.
 
-  it shift acording to the screen width and the font size and the margins
+it shift acording to the screen width and the font size and the margins
+
+
+## **PHASE 8**
+
+the state machine, basically how every button will change the state.
+
+## **PHASE 9**
+this is intresting lowk cause ill have to change the tp4056 module circuit again.
+THIS IS WHEN ILL IMPLEMENT THE BATTERY MANAGER.
+like this is when ill show the battery percentage.
+
+## **PHASE 10**
+where ill set it up so that the books are loaded from sd card AND wifi/bluetooth.
+cause i want to upload via wifi and bluetooth
+
+
+and then phase 11 is just doing everything with the hardware irl.
+
