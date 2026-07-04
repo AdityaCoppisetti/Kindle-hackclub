@@ -107,4 +107,9 @@ i wont use any book yet ill fake everything.
 this is where the kindle becomes a kindle
 like suppose take the text -
 this is what a kindle is  this is my kindle...
--- it turns it into this 
+
+it turns it into this
+- this is what a kindle is
+  thi is my kindle.
+
+  it shift acording to the screen width and the font size and the margins
