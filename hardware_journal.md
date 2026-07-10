@@ -554,5 +554,12 @@ okay so basically this is just a reference picture from pintrest but this is bas
 
 
 JUNE 10th 2026
-time: 11🕛
+time: 11.21 
+
+today i built the case that ill be using for the kindle. its pretty simple
+
+
+https://github.com/user-attachments/assets/fab1bd39-cfa8-41e5-a1af-e8d5fe0700c8
+
+
 
