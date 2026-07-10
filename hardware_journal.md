@@ -551,3 +551,8 @@ okay so basically this is just a reference picture from pintrest but this is bas
 
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/639b3569-de11-4766-9d36-813e7d9d17dc" />
 
+
+
+JUNE 10th 2026
+time: 11🕛
+
