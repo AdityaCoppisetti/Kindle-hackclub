@@ -563,3 +563,17 @@ https://github.com/user-attachments/assets/fab1bd39-cfa8-41e5-a1af-e8d5fe0700c8
 
 
 
+i also added a diode in the tp4056 output port becuase i think there might be chances of reverse flow of electricity if im flashing the esp32.
+
+<img width="520" height="761" alt="Screenshot From 2026-07-10 23-39-51" src="https://github.com/user-attachments/assets/f6f9b2eb-0538-4fb4-a652-7bebad41e6ea" />
+
+
+
+https://github.com/user-attachments/assets/507f960a-0b0f-4a0c-8c4c-c04210ba8e09
+
+
+and then this is the footprints once again make sure they're okay
+
+<img width="697" height="315" alt="image" src="https://github.com/user-attachments/assets/5e67b857-5f44-40f1-84e3-61e1d5710148" />
+
+
