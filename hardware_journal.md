@@ -654,3 +654,4 @@ it looks like this now
 
 also i went ahead and made the refrences alot neater because in all of my other designs the refrences were all over the place and overlapping like crazy
 
+all i need to do now is design the case
