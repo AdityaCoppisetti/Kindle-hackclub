@@ -11,16 +11,36 @@ i dont want something thats too fancy or has too much, a simple kindle type desi
 basically what i have in mind is-
 - A sd card slot ( for storing all my book pdf's)
 
+  <img width="1043" height="482" alt="image" src="https://github.com/user-attachments/assets/c39b6c55-e1bf-4e1a-a43f-0afdcf744fac" />
+
+
   <img width="1152" height="597" alt="image" src="https://github.com/user-attachments/assets/c33b1ea3-31ef-4c09-b252-f68c8623d484" />
 
 - A on/off switch to turn on the device from from off/sleep.
-  r
+  
+  <img width="1000" height="516" alt="image" src="https://github.com/user-attachments/assets/f97240ee-c292-4b36-b9de-bea42163a23b" />
+
 - 2 button - they can choose which books i need to read and then when the book is opened they can be used to turn pages.
+  
+  <img width="1144" height="680" alt="image" src="https://github.com/user-attachments/assets/984768fe-8dc8-4986-84a9-df819cc179d9" />
+
 - 1 button to select the book.
-- a microcontroller 
+  using the same button above
+- a microcontroller
+  
+  <img width="1181" height="625" alt="image" src="https://github.com/user-attachments/assets/e9aa8078-4e3b-4f5b-8cbb-f393aa396fdd" />
+
 - a e ink display.
+  i was going to use the 7 inch one but i prefer the 4.2 inch one
+
+<img width="1190" height="540" alt="image" src="https://github.com/user-attachments/assets/0cb6f9ad-9de6-481b-b6a8-80b2e9baeda9" />
+
+this one comes with the drivers
+
 - filament to 3d print case and housing ( my friend has a 3d printer and filament so i will be using that to save costs)
+  gonna be using PLA i think 
 - lipo batteries
+  gonna be using these ones because they are cheap and in a pack of 2
 - a battery charging module to charge the lipo batteries.
 - a micro sd card
  so thasts the components for the kindle.
