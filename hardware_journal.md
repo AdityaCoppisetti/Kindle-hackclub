@@ -652,3 +652,5 @@ it looks like this now
 <img width="857" height="738" alt="image" src="https://github.com/user-attachments/assets/d5e7fe40-69b8-4bda-8cdf-42c1c37a5319" />
 
 
+also i went ahead and made the refrences alot neater because in all of my other designs the refrences were all over the place and overlapping like crazy
+
