@@ -633,6 +633,22 @@ it looks like this-
 https://github.com/user-attachments/assets/0aca132c-dafb-493a-ad08-5e09888600b9
 
 
+go to my tapfolio repo for more info about this pcb!
 
+however i didnt want it to be a seperate pcb and i would have to solder it to connect.
+so i just made it onto the board itself 
+
+and so i made the entire schematic of the charging module in the kindle schematic
+
+<img width="812" height="823" alt="image" src="https://github.com/user-attachments/assets/2e60197c-96f8-44e4-af8f-ed4eca98cb91" />
+
+which is also put together and super dainty.
+
+okay so i updated the pcb again , the on/off switch wasnt connected and the wiring for the charging module was done a bit wrong 
+
+it looks like this now 
+
+
+<img width="857" height="738" alt="image" src="https://github.com/user-attachments/assets/d5e7fe40-69b8-4bda-8cdf-42c1c37a5319" />
 
 
