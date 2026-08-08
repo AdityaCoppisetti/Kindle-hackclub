@@ -577,3 +577,62 @@ and then this is the footprints once again make sure they're okay
 <img width="697" height="315" alt="image" src="https://github.com/user-attachments/assets/5e67b857-5f44-40f1-84e3-61e1d5710148" />
 
 
+
+
+## august 8th
+okay so i redesigned the entire pcb 
+becuase the last pcb was a clutter and it was just a esp32 and nothing else like i obviously could do better than that -
+
+<img width="615" height="717" alt="image" src="https://github.com/user-attachments/assets/6ba84c8c-2522-4e9a-bccb-dad188e590ff" />
+
+the flaws with this design- 
+1) i can do much better
+2) there are exposed gpio pins which means i would have to solder on pin headers which would increase the width of the entire kindle
+3) there isnt a onboard lithium battery charger or connector.
+4) its just plain ugly
+
+and so i redesigned it into this- 
+
+<img width="849" height="739" alt="image" src="https://github.com/user-attachments/assets/df18dc41-f0b7-482f-a0e6-e5b8067b97db" />
+
+all i need to do is to solder buttons and the sd card module. i lowkey wanted to add the sd card module onto the board itself
+but i couldnt find a schematic of it. 
+
+oh and i cant believe i forgot this but i somehow did not add a on/off switch.
+
+after i added all that i realised that i could just wire all of my buttons using just one pin.
+how you may ask, the trick is simple. 
+each button is paired with a resistor of different values and when pressed it sends a different voltage and thus its unique from the other buttons. 
+i have 3 buttons connected that way.
+
+<img width="820" height="643" alt="image" src="https://github.com/user-attachments/assets/71df4c69-2b87-4dba-87c4-d2d5651be092" />
+
+this is the wiring of the buttons 
+
+and then onto the onboard lithium battery charging module. 
+
+a little bit ago i made a lithium charging module for my tapfolio project and so i used it's schematic 
+
+it looks like this- 
+
+# the schematic 
+
+<img width="1022" height="529" alt="image" src="https://github.com/user-attachments/assets/fb7f9869-276d-4aea-88a3-265a93d9c22f" />
+
+
+ its quite dainty!
+
+ # the pcb design 
+
+ <img width="733" height="628" alt="image" src="https://github.com/user-attachments/assets/a831571e-97b0-40fb-88c8-f881f8052986" />
+
+
+# the pcb design but in 3d 
+
+
+https://github.com/user-attachments/assets/0aca132c-dafb-493a-ad08-5e09888600b9
+
+
+
+
+
