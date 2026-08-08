@@ -10,10 +10,11 @@ i absolutely love e ink displays and have been wanting to build my own kindle fr
 i dont want something thats too fancy or has too much, a simple kindle type design works aswell.
 basically what i have in mind is-
 - A sd card slot ( for storing all my book pdf's)
-- 
+
   <img width="1152" height="597" alt="image" src="https://github.com/user-attachments/assets/c33b1ea3-31ef-4c09-b252-f68c8623d484" />
 
 - A on/off switch to turn on the device from from off/sleep.
+  r
 - 2 button - they can choose which books i need to read and then when the book is opened they can be used to turn pages.
 - 1 button to select the book.
 - a microcontroller 
