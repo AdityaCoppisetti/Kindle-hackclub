@@ -732,3 +732,6 @@ okay i guess i got too excited,
 i apparently did the measurements wrong 
 
 <img width="937" height="787" alt="image" src="https://github.com/user-attachments/assets/46d1d4d7-7ed2-40e6-8868-63c4f48d54c9" />
+
+
+now isnt that just so much better
