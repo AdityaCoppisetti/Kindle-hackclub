@@ -721,3 +721,8 @@ oh and here is a lil 360
 <img width="626" height="545" alt="Screenshot From 2026-08-09 15-48-49" src="https://github.com/user-attachments/assets/e2fd2a59-9c9f-410a-aaeb-a6d1a3204090" />
 
 oh and i did this thing with my tapfolio project where i exported my pcb and put it in onshape and deisgned a full mockup in it so im gonna do exactly that
+
+
+okay so creating the mockup , i insert my touch capacitive module AND HOLY SHIT ITS A PERFECT FIT IM SO IMPRESSED 
+
+<img width="1009" height="591" alt="image" src="https://github.com/user-attachments/assets/ea1d0f62-7cfb-4a9f-95ff-21aa4916a35c" />
