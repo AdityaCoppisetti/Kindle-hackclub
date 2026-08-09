@@ -748,3 +748,10 @@ well the new case looks perfect!
 
 <img width="726" height="632" alt="image" src="https://github.com/user-attachments/assets/a63ba93f-0ccb-4da8-9bc7-33cac619eeb0" />
 
+
+okay so let me show it to you properly 
+
+<img width="1002" height="620" alt="image" src="https://github.com/user-attachments/assets/508a7234-b7c0-4093-9c0d-d8a8681f0097" />
+
+here is how it looks like from the inside and outside , dont worry i will be printing them in the same colour 
+
