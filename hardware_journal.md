@@ -690,3 +690,8 @@ i added these 2 holes to put the touch capacitive button into and then i added a
 
 <img width="762" height="707" alt="image" src="https://github.com/user-attachments/assets/17d0b4b8-1cbc-47ae-9d1c-bfd951784dfd" />
 
+
+also i changed the size of this big hole because the pcb now only needs 1 usb input. 
+
+<img width="762" height="707" alt="image" src="https://github.com/user-attachments/assets/6c53238b-00c8-4ed5-95ee-6561d2b11307" />
+
