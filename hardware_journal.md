@@ -710,3 +710,8 @@ oh and with the help of my friend i added fill zones
 and now my pcb looks like this 
 
 <img width="857" height="735" alt="image" src="https://github.com/user-attachments/assets/23e6f236-ffc7-41ff-84ca-758b823ae458" />
+
+
+and in 3d it looks like this 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f9259e0-a691-4679-91ed-e22d22c0b618" />
