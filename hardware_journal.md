@@ -744,3 +744,7 @@ i went ahead and added these little cylindrical supports to screw in and tighten
 
 <img width="726" height="632" alt="image" src="https://github.com/user-attachments/assets/2b035528-0b87-4b41-a6f1-b5ff14fda16b" />
 
+well the new case looks perfect!
+
+<img width="726" height="632" alt="image" src="https://github.com/user-attachments/assets/a63ba93f-0ccb-4da8-9bc7-33cac619eeb0" />
+
