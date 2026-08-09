@@ -676,4 +676,7 @@ i added one big rectangle hole at the side so i can put my usb cables thru it. i
 
 oh wait i just looks at the schematic and realised that i dont really need to have another usb type c just to charge and so im gonna update the pcb
 
+okay so i changed the pcb- 
+
+<img width="881" height="686" alt="image" src="https://github.com/user-attachments/assets/64e2e84e-8272-4336-9751-6d196b5c6ffb" />
 
