@@ -716,5 +716,8 @@ and in 3d it looks like this
 
 <img width="626" height="545" alt="Screenshot From 2026-08-09 15-48-49" src="https://github.com/user-attachments/assets/b896dcec-9dcd-47f2-86f5-761e1d9a34ee" />
 
+oh and here is a lil 360 
+
+<img width="626" height="545" alt="Screenshot From 2026-08-09 15-48-49" src="https://github.com/user-attachments/assets/e2fd2a59-9c9f-410a-aaeb-a6d1a3204090" />
 
 oh and i did this thing with my tapfolio project where i exported my pcb and put it in onshape and deisgned a full mockup in it so im gonna do exactly that
