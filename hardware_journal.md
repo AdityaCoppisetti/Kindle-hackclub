@@ -761,3 +761,8 @@ the pcb will be inside the case like this
 
 <img width="925" height="786" alt="image" src="https://github.com/user-attachments/assets/8e7df2e0-9369-44ab-b225-598216f64d91" />
 
+and here is how the touch capacitive buttons look like in the case , honestly if i werent using them this case would be so much slimer 
+
+<img width="1109" height="819" alt="image" src="https://github.com/user-attachments/assets/ad209765-cb48-4804-a455-9fc70d7aaa52" />
+
+
