@@ -726,3 +726,9 @@ oh and i did this thing with my tapfolio project where i exported my pcb and put
 okay so creating the mockup , i insert my touch capacitive module AND HOLY SHIT ITS A PERFECT FIT IM SO IMPRESSED 
 
 <img width="1009" height="591" alt="image" src="https://github.com/user-attachments/assets/ea1d0f62-7cfb-4a9f-95ff-21aa4916a35c" />
+
+
+okay i guess i got too excited, 
+i apparently did the measurements wrong 
+
+<img width="937" height="787" alt="image" src="https://github.com/user-attachments/assets/46d1d4d7-7ed2-40e6-8868-63c4f48d54c9" />
