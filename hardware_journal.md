@@ -704,3 +704,9 @@ it seems that ive forgot to add a lil hole for the on/off switch
 
 
 now ive added this lil hole beside the type c port so that i can put a on/off switch
+
+
+oh and with the help of my friend i added fill zones 
+and now my pcb looks like this 
+
+<img width="857" height="735" alt="image" src="https://github.com/user-attachments/assets/23e6f236-ffc7-41ff-84ca-758b823ae458" />
