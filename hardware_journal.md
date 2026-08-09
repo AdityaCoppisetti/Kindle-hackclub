@@ -702,3 +702,16 @@ it looks like this now
 also i went ahead and made the refrences alot neater because in all of my other designs the refrences were all over the place and overlapping like crazy
 
 all i need to do now is design the case
+
+## august 9th 
+i designed the case!!
+
+i got on onshape and i deisgned the case.
+the case isnt really anything pretty but its functional 
+yesterday i designed the pcb again and it is much much better and now i designed a mid case bahahaha
+
+okay so here is what i designed- 
+<img width="805" height="529" alt="image" src="https://github.com/user-attachments/assets/be1734f6-7b39-433b-91fa-ad18a0ebdafc" />
+
+
+
