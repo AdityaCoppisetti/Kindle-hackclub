@@ -755,3 +755,4 @@ okay so let me show it to you properly
 
 here is how it looks like from the inside and outside , dont worry i will be printing them in the same colour 
 
+okay so now let me make the new mockups 
