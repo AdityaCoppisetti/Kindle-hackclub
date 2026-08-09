@@ -740,3 +740,4 @@ okay so once again i made a mistake so here is the new and improved structure
 
 <img width="693" height="624" alt="image" src="https://github.com/user-attachments/assets/cfe898a7-e465-4e38-affd-fe63425a4355" />
 
+i went ahead and added these little cylindrical supports to screw in and tighten the e ink display
