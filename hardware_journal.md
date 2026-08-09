@@ -714,4 +714,5 @@ and now my pcb looks like this
 
 and in 3d it looks like this 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f9259e0-a691-4679-91ed-e22d22c0b618" />
+<img width="626" height="545" alt="Screenshot From 2026-08-09 15-48-49" src="https://github.com/user-attachments/assets/b896dcec-9dcd-47f2-86f5-761e1d9a34ee" />
+
