@@ -680,3 +680,13 @@ okay so i changed the pcb-
 
 <img width="881" height="686" alt="image" src="https://github.com/user-attachments/assets/64e2e84e-8272-4336-9751-6d196b5c6ffb" />
 
+
+okay so i made it so that the pcb just needs one usb input. 
+this is still however not the full design. 
+
+anyways back to the case 
+
+i added these 2 holes to put the touch capacitive button into and then i added a lill support beam , i plan to to use those 2 buttons as next and previous page navigation 
+
+<img width="762" height="707" alt="image" src="https://github.com/user-attachments/assets/17d0b4b8-1cbc-47ae-9d1c-bfd951784dfd" />
+
