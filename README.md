@@ -9,7 +9,7 @@
 i absolutely love e ink displays and have been wanting to build my own kindle from a very long time. 
 i dont want something thats too fancy or has too much, a simple kindle type design works aswell.
 basically what i have in mind is-
-- A sd card slot ( for storing all my book pdf's)
+- A sd card slot  and  a micro sd card ( for storing all my book pdf's)
 
   <img width="1043" height="482" alt="image" src="https://github.com/user-attachments/assets/c39b6c55-e1bf-4e1a-a43f-0afdcf744fac" />
 
@@ -40,9 +40,17 @@ this one comes with the drivers
 - filament to 3d print case and housing ( my friend has a 3d printer and filament so i will be using that to save costs)
   gonna be using PLA i think 
 - lipo batteries
-  gonna be using these ones because they are cheap and in a pack of 2
+  ,gonna be using these ones because they are cheap and in a pack of 2
+  
+  <img width="1108" height="572" alt="image" src="https://github.com/user-attachments/assets/3d63c309-1455-4815-b0cc-b0234ee8c704" />
+
 - a battery charging module to charge the lipo batteries.
-- a micro sd card
+  You could use the tp4056 module and its just plug and play but i wanted to learn kicad further so i made my own module.
+  i made this lil board-
+
+  <img width="733" height="628" alt="image" src="https://github.com/user-attachments/assets/8eb1670f-0074-44c7-9c3a-6c6f2d42172b" />
+
+
  so thasts the components for the kindle.
 
 Before i start plotting i need to answer some questions that i need to answer
