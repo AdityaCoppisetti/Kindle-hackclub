@@ -756,3 +756,8 @@ okay so let me show it to you properly
 here is how it looks like from the inside and outside , dont worry i will be printing them in the same colour 
 
 okay so now let me make the new mockups 
+
+the pcb will be inside the case like this 
+
+<img width="925" height="786" alt="image" src="https://github.com/user-attachments/assets/8e7df2e0-9369-44ab-b225-598216f64d91" />
+
