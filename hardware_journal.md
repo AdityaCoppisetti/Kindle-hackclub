@@ -695,3 +695,6 @@ also i changed the size of this big hole because the pcb now only needs 1 usb in
 
 <img width="762" height="707" alt="image" src="https://github.com/user-attachments/assets/6c53238b-00c8-4ed5-95ee-6561d2b11307" />
 
+oh and this is for the select/ main menu button 
+
+<img width="762" height="707" alt="image" src="https://github.com/user-attachments/assets/439b5f8e-1bca-44cc-95bf-a51d0d2e9c41" />
