@@ -701,3 +701,6 @@ oh and this is for the select/ main menu button
 
 
 it seems that ive forgot to add a lil hole for the on/off switch
+
+
+now ive added this lil hole beside the type c port so that i can put a on/off switch
