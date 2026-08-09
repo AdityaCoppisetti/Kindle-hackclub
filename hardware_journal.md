@@ -714,4 +714,8 @@ okay so here is what i designed-
 <img width="805" height="529" alt="image" src="https://github.com/user-attachments/assets/be1734f6-7b39-433b-91fa-ad18a0ebdafc" />
 
 
+i added one big rectangle hole at the side so i can put my usb cables thru it. ill try to make it so there is only two cables.
+
+oh wait i just looks at the schematic and realised that i dont really need to have another usb type c just to charge and so im gonna update the pcb
+
 
