@@ -765,4 +765,11 @@ and here is how the touch capacitive buttons look like in the case , honestly if
 
 <img width="1109" height="819" alt="image" src="https://github.com/user-attachments/assets/ad209765-cb48-4804-a455-9fc70d7aaa52" />
 
+here is how it looks like with the e ink display
+
+<img width="645" height="592" alt="image" src="https://github.com/user-attachments/assets/40e97396-778a-4cb5-94fc-97368dee553b" />
+
+and this 
+
+<img width="645" height="592" alt="Screenshot From 2026-08-09 17-25-31" src="https://github.com/user-attachments/assets/b159828f-b871-4812-981c-6835542829c6" />
 
