@@ -1,0 +1,31 @@
+﻿Reference,KiCad Qty,Value,Footprint,Product,Purchase Qty,Currency,Unit Price,Pack/Line Price,Product Link,in usd
+"C1,C2,C3,C4,C5",25,4u7,C_0805_2012Metric,4.7µF 0805 SMD capacitor,10,INR,14,140,https://robu.in/product/mc0805f475z160ct-multicomp-pro-cap-smd-mlcc-4-7%c2%b5f-16-v-0805-pack-of-5/,$1.47
+C6,1,C,C_0402_1005Metric,4.7µF 0402 SMD capacitor,5,INR,6,30,https://robu.in/product/155r61a475meaad-murata-cap-smd-mlcc-4-7-%c2%b5f-10-v-0402-pack-of-1/,$0.31
+C9,1,4U7,C_0805_2012Metric,4.7µF 0805 SMD capacitor,10,INR,14,140,https://robu.in/product/mc0805f475z160ct-multicomp-pro-cap-smd-mlcc-4-7%c2%b5f-16-v-0805-pack-of-5/,already have
+C10,1,100N,C_0402_1005Metric,100nF 0402 SMD capacitor,5,INR,0.55,2.75,https://robu.in/product/0402b104k500nt-fh-50v-100nf-x7r%c2%b110-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/,$0.03
+C11,1,4.7u,C_0805_2012Metric,4.7µF 0805 SMD capacitor,10,INR,14,140,https://robu.in/product/mc0805f475z160ct-multicomp-pro-cap-smd-mlcc-4-7%c2%b5f-16-v-0805-pack-of-5/,already have
+D1,1,D,D_SOD-882D,PMEG3002AELD SOD-882D Schottky diode,5,INR,10,50,https://robu.in/product/pmeg3002aeld315-nexperia-30v-480mv200ma-200ma-sod-882d-schottky-diodes-rohs/,$0.52
+D2,1,LED,LED_0402_1005Metric,0402 red SMD LED,5,INR,1.58,7.9,https://robu.in/product/0402-surface-mount-led-red-50pcs/,$0.08
+J1,1,USB_C_Receptacle_USB2.0_16P,USB_C_Receptacle_G-Switch_GT-USB-7010ASV,G-Switch GT-USB7010ASV USB-C receptacle,1,USD,0.44,0.44,https://jlcpcb.com/partdetail/GSwitch-GT_USB7010ASV/C2988369,$0.44
+J2,1,Conn_01x02,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,JST PH 2-pin 2.00mm horizontal connector,5,USD,0.68,,https://robu.in/product/s2b-ph-klfsn-jst-1x2p-2p-ph-tin-2-25%e2%84%8385%e2%84%83-2a-1-2mm-brass-bend-insert-push-pullp2mm-wire-to-board-connector-rohs/,$0.68
+J3,1,Conn_01x08_Pin,PinHeader_1x08_P2.00mm_Vertical,1x8 2.00mm pitch pin header,10,USD,0.42,4.2,https://robu.in/product/ds1021-09-1x8sf1-a3-0-b6-0-b-connfly-1x8-pin-2-54mm-pin-header-v-t-type-h2-0mm/,$0.42
+"J4,J5",4,Conn_01x06_Pin,PinHeader_1x06_P2.00mm_Vertical,1x6 2.00mm pitch pin header,10,USD,0.42,,https://robu.in/product/ds1021-09-1x8sf1-a3-0-b6-0-b-connfly-1x8-pin-2-54mm-pin-header-v-t-type-h2-0mm/,$0.42
+"R1,R2",4,5K1,R_0402_1005Metric,5.1kΩ 0402 SMD resistor,5,USD,0.04,,https://robu.in/product/ac0402fr-075k1l-yageo-res-thick-film-0402-5-1k-ohm-1-0-063w1-16w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/,$0.04
+R3,1,0r,R_0402_1005Metric,0Ω 0402 SMD resistor,5,USD,0.013,,https://robu.in/product/erj2ge0r00x-panasonic-100mw-thick-film-resistors-100ppm-%e2%84%83600ppm-%e2%84%83-0%cf%89-0402-chip-resistor-surface-mount-rohs/,$0.01
+"R4,R6,R8,R9",16,10k,R_0402_1005Metric,10kΩ 0402 SMD resistor,10,USD,0.082,,https://robu.in/product/10k-resistor-smdr-0402-pack-of-50/,$0.08
+R5,1,100r,R_0402_1005Metric,100Ω 0402 SMD resistor,2,,,,https://robu.in/product/1-month-warranty-1125/,$0.03
+R10,1,470r,R_0402_1005Metric,470Ω 0402 SMD resistor,3,USD,0.0068,,https://robu.in/product/ac0402fr-07470rl-yageo-res-thick-film-0402-470-ohm-1-0-063w1-16w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/,$0.01
+R11,1,470r,R_0805_2012Metric,470Ω 0805 SMD resistor,4,USD,0.042,,https://robu.in/product/rc0805fr-07470rl-yageo-res-thick-film-0805-470-ohm-1-0-125w1-8w-%c2%b1100ppm-c-pad-smd-t-r/,$0.04
+"R12,R13,R14",9,R,PinHeader_1x02_P2.00mm_Vertical,1x2 2.00mm pitch pin header,5,USD,0.42,,https://robu.in/product/ds1021-09-1x8sf1-a3-0-b6-0-b-connfly-1x8-pin-2-54mm-pin-header-v-t-type-h2-0mm/,$0.42
+"SW1,SW2",4,SW_Push,SW_SPST_B3U-1000P,Omron B3U-1000P SMD tactile switch,6,USD,3.99,3.99,https://robu.in/product/b3u-1000p-omron-2-5mm-1-6mm-round-button-50ma-vertical-welding-3mm-spst-1-53n-12v-smd2-5x3mm-tactile-switches-rohs/,$3.99
+"SW3,SW4,SW5,SW6",16,SW_Push,PinHeader_1x02_P2.00mm_Vertical,1x2 2.00mm connector/header,7,USD,0.23,,https://robu.in/product/aa07a09010000006a-bzcn-3a-125v-3a-250v-10000-times-plugin-limit-switches-rohs/,$0.23
+U1,1,USBLC6-2SC6,SOT-23-6,USBLC6-2SC6,8,USD,0.47,,https://robu.in/product/usblc6-2sc6-ms-msksemi-4-5a-15v-150w-6v-5v-sot-23-6-esd-and-surge-protection-tvs-esd-rohs/,$0.47
+U2,1,AP2112K-3.3,SOT-23-5,AP2112K-3.3,9,USD,0.94,,https://robu.in/product/ap2128k-3-3trg1-diodes-incorporated-300ma-fixed-3-3v-positive-6v-sot-23-5-voltage-regulators-linear-low-drop-out-ldo-regulators-rohs/,$0.95
+U3,1,ESP32-C3-WROOM-02,ESP32-C3-WROOM-02,ESP32-C3-WROOM-02,10,USD,8.15,,https://robu.in/product/espressif-esp32-c3-wroom-02-n4-module/,$8.15
+U4,1,MCP73831-2-OT,SOT-23-5,MCP73831-2-OT,11,USD,5.35,,https://robu.in/product/mcp73831t-2aci-ot-microchip-battery-charger-for-1-cell-of-li-ion-li-pol-battery-6v-input-4-2v-500ma-charge-sot-23-5/,$5.35
+BAT1 (external),,Lithium battery,,SP Rechargeable battery (Amazon listing),12,USD,3.13,,https://www.amazon.in/SP-Rechargeable-Connector-Bluetooth-Electronics/dp/B0H568LR23/ref=sr_1_1?sr=8-1,$3.13
+pcb from jlcpcb,,pcb,,pcb,1,USD,,2,,
+,,,,,1,USD,30.61,30.61,,$30.61
+e ink display,1,e ink display,none, e ink display ,1,inr,,6040,https://amzn.in/d/0fYbejic,$63.29
+touch buttons,3,TTP223 Touch Key Switch Module,none,TTP223 Touch Key Switch Module,1,inr,,₹228,https://amzn.in/d/00sZICji,$2.39
+,,,,,,,,,,The total is $120.03 USD. 
