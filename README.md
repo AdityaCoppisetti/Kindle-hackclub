@@ -31,21 +31,7 @@ here is how the kindle i designed looks like
 
 
 
-Before i start plotting i need to answer some questions that i need to answer
 
-1) why am i making this?
-  this is a device for students and avid readers like me who want a distraction free reading device     with a long battery life and its open sourced.
-
-2) what makes it different from a kindle?
-  its fully open sourced hardware and firmware , its extremely repairable , expandable with a microsd card with customizable software and a secondary oled status display for battery , page nuber and reading progress.
-
- 3) display size - 4.2 inch e ink display 
- 4) battery life- target of 3 to 6 weeks of normal reading with aggressive deep sleep and infrequent e ink refreshes
- 5) linux or bare metal?
-    bare metal sice im using an esp32-c3 ( arduino framework with platformIO) this provides much
-    lower power consumption and faster startup than linux
-6) touchscreen? no physical buttons only for a distraction free reading
-experience and improved battery life.
 
    
 
