@@ -62,3 +62,8 @@ here is how the pcb looks like in kicad's 3d viewer
 
 and obviously here is a lil 360 
 
+
+
+https://github.com/user-attachments/assets/d5890601-8e93-464f-907f-b951f2e43e23
+
+
