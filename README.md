@@ -9,10 +9,14 @@ and its just so amazing building your own devices and with the hackclub's macond
 before this i havent really made much without using what was in my arduino kit. so in this project, i learnt along the way whatever it took me to make this 
 and you can learn aswell from my journal.md in this project , i go over almost everything
 
+here is how the kindle i designed looks like 
+
 
 
 <img width="903" height="728" alt="Screenshot From 2026-08-15 14-37-48" src="https://github.com/user-attachments/assets/ec3fd5d3-a5d4-4128-8741-8e710bf4f212" />
 
+
+<img width="903" height="728" alt="Screenshot From 2026-08-15 14-38-00" src="https://github.com/user-attachments/assets/b63d634d-425f-48ab-a461-e27744e7c0c1" />
 
 
 
