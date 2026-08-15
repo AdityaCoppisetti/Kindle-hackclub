@@ -1,3 +1,9 @@
+hey im dhruv coppisetti and i built my own kindle from scratch using a e ink display and my own custom pcb i designed 
+
+<img width="903" height="728" alt="Screenshot From 2026-08-15 14-37-48" src="https://github.com/user-attachments/assets/ec3fd5d3-a5d4-4128-8741-8e710bf4f212" />
+
+
+
 
 
 <img width="818" height="841" alt="image" src="https://github.com/user-attachments/assets/0dfb9538-91c3-44fd-a7a0-d9cd93187e8b" />
@@ -28,8 +34,6 @@ Before i start plotting i need to answer some questions that i need to answer
 experience and improved battery life.
 
    
-here are some pictures of how it will look like 
-
 
 
 
