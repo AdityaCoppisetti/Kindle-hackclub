@@ -48,9 +48,7 @@ which looks like this -
 
 
 
-
-
-
+it took me multiple versions of the pcb to come to this point you can find all of that in my journal.md 
 
 
    
