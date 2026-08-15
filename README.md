@@ -52,7 +52,7 @@ it took me multiple versions of the pcb to come to this point you can find all o
 
 
    
-
+here is how the pcb looks like in kicad's 3d viewer
 
 
 
