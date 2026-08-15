@@ -57,3 +57,6 @@ here is how the pcb looks like in kicad's 3d viewer
 
 <img width="631" height="537" alt="image" src="https://github.com/user-attachments/assets/dc70cdbd-8a4a-4a0a-8b0a-2e2a73eef0f2" />
 
+<img width="631" height="537" alt="image" src="https://github.com/user-attachments/assets/9e37d3c6-a6fa-4dc2-a4b5-cff5f6cc261e" />
+
+
