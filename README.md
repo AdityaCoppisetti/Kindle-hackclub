@@ -40,7 +40,7 @@ experience and improved battery life.
 
 for this project ill be making my own custom esp32 powered pcb 
 
-<img width="818" height="841" alt="image" src="https://github.com/user-attachments/assets/0dfb9538-91c3-44fd-a7a0-d9cd93187e8b" />
+
 
 
 
