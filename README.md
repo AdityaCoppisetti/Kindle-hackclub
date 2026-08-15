@@ -28,7 +28,7 @@ here is how the kindle i designed looks like
 
 <img width="657" height="555" alt="image" src="https://github.com/user-attachments/assets/3dadb2f7-324c-4716-88c1-66b3fbffdd90" />
 
-( this is the custom pcb i designed) 
+
 
 
 Before i start plotting i need to answer some questions that i need to answer
