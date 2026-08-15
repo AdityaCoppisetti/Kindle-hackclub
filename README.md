@@ -19,6 +19,9 @@ here is how the kindle i designed looks like
 <img width="903" height="728" alt="Screenshot From 2026-08-15 14-38-00" src="https://github.com/user-attachments/assets/b63d634d-425f-48ab-a461-e27744e7c0c1" />
 
 
+<img width="903" height="728" alt="Screenshot From 2026-08-15 14-38-12" src="https://github.com/user-attachments/assets/8aa994cb-5eff-46bd-8e6a-a4ac731aacf1" />
+
+
 
 
 <img width="818" height="841" alt="image" src="https://github.com/user-attachments/assets/0dfb9538-91c3-44fd-a7a0-d9cd93187e8b" />
