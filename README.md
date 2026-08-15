@@ -12,8 +12,6 @@ basically what i have in mind is-
 
 
 Before i start plotting i need to answer some questions that i need to answer
-this is whats called as 
-**PHASE 0**
 
 1) why am i making this?
   this is a device for students and avid readers like me who want a distraction free reading device     with a long battery life and its open sourced.
@@ -30,6 +28,8 @@ this is whats called as
 experience and improved battery life.
 
    
-here are pictures of the exact components ill be using-
+here are some pictures of how it will look like 
+
+
 
 
